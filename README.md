@@ -27,8 +27,11 @@ The project is intended for:
 - Design System Designers
 - Front-end Engineers
 - UX Engineers
+- UI Architects
 - Design Technologists
 - Engineering Managers
+- Technical Product Managers
+
 
 ---
 
